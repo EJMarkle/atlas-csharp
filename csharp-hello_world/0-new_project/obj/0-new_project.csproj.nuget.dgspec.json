@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project/0-new_project.csproj": {}
+    "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project.csproj": {}
   },
   "projects": {
-    "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project/0-new_project.csproj": {
+    "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project/0-new_project.csproj",
+        "projectUniqueName": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
         "projectName": "0-new_project",
-        "projectPath": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project/0-new_project.csproj",
+        "projectPath": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
         "packagesPath": "/home/evan/.nuget/packages/",
-        "outputPath": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project/obj/",
+        "outputPath": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/evan/.nuget/NuGet/NuGet.Config"
