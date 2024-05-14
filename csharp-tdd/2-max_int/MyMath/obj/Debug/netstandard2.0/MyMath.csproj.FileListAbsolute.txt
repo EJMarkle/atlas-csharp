@@ -1,0 +1,12 @@
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.AssemblyReference.cache
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.sourcelink.json
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

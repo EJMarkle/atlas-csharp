@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MyMath
+build_property.ProjectDir = /home/evan/atlas-csharp/csharp-tdd/2-max_int/MyMath/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
