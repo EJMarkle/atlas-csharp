@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Text
+build_property.ProjectDir = /home/evan/atlas-csharp/csharp-tdd/3-palindrome/Text/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
