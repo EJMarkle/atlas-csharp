@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>
+            Text operations
+            </summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary>
+            Determines the number of words in a string.
+            </summary>
+            <param name="s">The input string.</param>
+            <returns>The number of words in the string.</returns>
+        </member>
+    </members>
+</doc>

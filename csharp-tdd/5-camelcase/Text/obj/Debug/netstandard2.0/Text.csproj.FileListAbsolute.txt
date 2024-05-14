@@ -1,0 +1,12 @@
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/netstandard2.0/Text.xml
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/netstandard2.0/Text.deps.json
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/netstandard2.0/Text.dll
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/bin/Debug/netstandard2.0/Text.pdb
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.csproj.AssemblyReference.cache
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.AssemblyInfoInputs.cache
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.AssemblyInfo.cs
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.csproj.CoreCompileInputs.cache
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.sourcelink.json
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.dll
+/home/evan/atlas-csharp/csharp-tdd/5-camelcase/Text/obj/Debug/netstandard2.0/Text.pdb
