@@ -1,0 +1,6 @@
+/home/evan/atlas-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.AssemblyReference.cache
+/home/evan/atlas-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/evan/atlas-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/home/evan/atlas-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/home/evan/atlas-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/home/evan/atlas-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/netstandard2.0/MyMath.sourcelink.json

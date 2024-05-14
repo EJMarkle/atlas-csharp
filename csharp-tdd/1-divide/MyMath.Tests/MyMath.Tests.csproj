@@ -15,5 +15,4 @@
   <ItemGroup>
     <ProjectReference Include="..\MyMath\MyMath.csproj" />
   </ItemGroup>
-
 </Project>
