@@ -28,17 +28,19 @@ class List
                 }
                 catch (DivideByZeroException)
                 {
-                    Console.WriteLine("Cannot divide by zero");
+                    resultList.Add(0);
                 }
                 catch (IndexOutOfRangeException)
                 {
-                    Console.WriteLine("Out of range");
+                    resultList.Add(0);
                 }
 
-                resultList.Add(result);
+                if (i >= list1.Count || i >= list2.Count)
+                {
+                    Console.WriteLine("Out of range");
+                }
             }
         }
-
         catch (Exception ex)
         {
             Console.WriteLine("An error occurred: " + ex.Message);
