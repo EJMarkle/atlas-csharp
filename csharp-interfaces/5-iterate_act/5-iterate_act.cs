@@ -2,6 +2,25 @@ using System;
 using System.Collections.Generic;
 
 /// <summary>
+/// Abstract base class representing a base object
+/// </summary>
+abstract class Base
+{
+    /// <summary>
+    /// Name property of the object
+    /// </summary>
+    public string name { get; set; }
+
+    /// <summary>
+    /// Overrides the ToString method to provide a custom string representation of the object
+    /// </summary>
+    public override string ToString()
+    {
+        return $"{this.name} is a {this.GetType().Name}";
+    }
+}
+
+/// <summary>
 /// Class representing a room with various objects
 /// </summary>
 class RoomObjects
