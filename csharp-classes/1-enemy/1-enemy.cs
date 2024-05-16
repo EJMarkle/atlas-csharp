@@ -5,9 +5,14 @@ namespace Enemies
     /// </summary>
     public class Zombie
     {
+        /// <summary>
+        ///  Health
+        /// </summary>
 
         public int health;
-
+        /// <summary>
+        /// Zombie
+        /// </summary>
         public Zombie()
         {
             health = 0;
