@@ -15,7 +15,9 @@ class List
                 count++;
             }
         }
-   
+        catch{
+            
+        }
         return count;
     }
 }
