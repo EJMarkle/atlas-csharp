@@ -39,6 +39,11 @@ class List
             }
         }
 
+        catch (Exception ex)
+        {
+            Console.WriteLine("An error occurred: " + ex.Message);
+        }
+
         return resultList;
     }
 }
