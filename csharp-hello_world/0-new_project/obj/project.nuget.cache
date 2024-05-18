@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VMOWEDMnWRZcrFtPgV83Vv0qtvpGH6r8VrhD3jDb8sFvv3/2TI6z8J6c6Xs13+I4oQHy2OWeSKDfvzIp89AI1Q==",
+  "dgSpecHash": "fgVeOfgU0s0=",
   "success": true,
   "projectFilePath": "/home/evan/atlas-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/evan/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/evan/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/evan/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
