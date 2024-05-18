@@ -1,9 +1,5 @@
 using System;
 
-/// <summary> 
-/// Math namespace
-/// </summary>
-namespace VectorMath
 {
     /// <summary>
     /// Math
