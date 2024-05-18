@@ -1,15 +1,18 @@
 using System;
 
 /// <summary> 
-/// Math
+/// Math namespace
 /// </summary>
 namespace VectorMath
 {
     /// <summary>
-    /// Gets magnitude of 2d and 3d vectors
+    /// Math
     /// </summary>
     public class VectorMath
     {
+        /// <summary>
+        /// Gets magnitude of 2d and 3d vectors
+        /// </summary>
         public static double Magnitude(double[] vector)
         {
             if (vector.Length == 2)
