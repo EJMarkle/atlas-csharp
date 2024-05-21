@@ -1,17 +1,19 @@
 using System;
 
 /// <summary>
-/// Math
+/// Matrix Math
 /// </summary>
-public class MatrixMath
+class MatrixMath
 {
     /// <summary>
-    /// Rotate matrix!
+    /// Rotate matrix by degree
     /// </summary>
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
-        int n = matrix.GetLength(0);
-        if (matrix.GetLength(1) != n)
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+
+        if (rows != 2 || cols != 2 )
         {
             return new double[,] { { -1 } };
         }
@@ -19,25 +21,16 @@ public class MatrixMath
         double cosTheta = Math.Cos(angle);
         double sinTheta = Math.Sin(angle);
 
-        double[,] rotationMatrix = new double[,]
-        {
-            { cosTheta, -sinTheta },
-            { sinTheta, cosTheta }
-        };
+        double a = matrix[0, 0];
+        double b = matrix[0, 1];
+        double c = matrix[1, 0];
+        double d = matrix[1, 1];
 
-        double[,] result = new double[n, n];
+        double aNew = Math.Round((cosTheta * a - sinTheta * b), 2);
+        double bNew = Math.Round((sinTheta * a + cosTheta * b), 2);
+        double cNew = Math.Round((cosTheta * c - sinTheta * d), 2);
+        double dNew = Math.Round((sinTheta * c + cosTheta * d), 2);
 
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < n; j++)
-            {
-                double x = i * cosTheta - j * sinTheta;
-                double y = i * sinTheta + j * cosTheta;
-
-                result[i, j] = matrix[i, j] * rotationMatrix[0, 0] + matrix[i, j] * rotationMatrix[1, 1];
-            }
-        }
-
-        return result;
+        return new double[,] { { aNew, bNew }, { cNew, dNew } };
     }
 }
