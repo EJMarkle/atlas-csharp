@@ -52,7 +52,9 @@ public class Player
     private float maxHp;
     private float hp;
     private string status;
-
+    /// <summary>
+    /// Hp check event handler
+    /// </summary>
     public event EventHandler<CurrentHPArgs> HPCheck;
 
     /// <summary>
