@@ -148,8 +148,11 @@ public class Player
 /// </summary>
 public enum Modifier
 {
+    // Weak modifier
     Weak,
+    // Base modifier
     Base,
+    // strong modifier
     Strong
 }
 
