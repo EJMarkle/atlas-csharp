@@ -8,19 +8,25 @@ public class Player
     private string name;
     private float maxHp;
     private float hp;
-
+    /// <summary>
+    /// PLayer name
+    /// </summary>
     public string Name
     {
         get { return name; }
         private set { name = value; }
     }
-
+    /// <summary>
+    /// Max hp
+    /// </summary>
     public float MaxHp
     {
         get { return maxHp; }
         private set { maxHp = value; }
     }
-
+    /// <summary>
+    /// Player hp getter n setter
+    /// </summary>
     public float Hp
     {
         get { return hp; }
